@@ -15,6 +15,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SayuriMalaviarachchi&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
+## 📈 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayuriMalaviarachchi&theme=tokyo-night&area=true&hide_border=false" />
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
