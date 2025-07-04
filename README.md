@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱I’m currently learning Software Engineering @SLIIT <br>📫 How to reach me sayurisachinthanee11@gmail.com<br>⚡When I'm not coding, you can find me 
+🌱I’m currently learning Software Engineering @SLIIT <br>📫 How to reach me sayurisachinthanee11@gmail.com<br>
 
 
 ## 🌐 Socials:
